@@ -1,0 +1,85 @@
+@media only screen and (max-width:800px) {
+    
+    body{
+        header{
+            height:auto;
+            padding: 6px;
+        }
+        .nav{
+            display:flex;
+            
+            flex-direction:column;
+          margin-left: -61px;
+
+
+        }
+        .sec1{
+            height: 50vh;
+        }
+        .left{
+            font-size: 1.2rem;
+            padding: 10px;
+            width: auto;
+        }
+        .main{
+            margin-left: 5px;
+        }
+        .Name{
+            margin-left: 13px;
+        }
+        .right{
+            margin: auto;
+        }
+        .btn{
+            font-size: 0.8rem;
+        }
+        .side2{
+            width: auto;
+        }
+        .heading{
+            font-size: 1rem;
+        }
+        .About{
+            font-size: 0.5rem;
+        }
+        .Achive{
+            font-size: 1rem;
+            margin-bottom: 3px;
+        }
+        .minbox{
+            height: auto;
+        }
+        .cer{
+            font-size: 0.7rem;
+            margin-left: 3px;
+        }
+    .footer{
+        display: flex;
+        background-color: #ff0083;
+        justify-content: space-around;
+        margin: 12px;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .rich{
+        font-size: 1.23rem;
+        margin-top: 12px;
+    }
+    .richme{
+        width: 7vw;
+
+    }
+    .myphoto{
+        display: flex;
+  justify-content: right;
+  
+    }
+    .pic{
+        width: 16vw;
+        margin-right: 6px;
+
+    margin-left: 0;
+    }
+    }
+
+}
